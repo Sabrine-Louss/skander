@@ -1,0 +1,18 @@
+
+
+.error{
+    color: red;
+}
+
+
+#mainn{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    visibility: visible;
+    border-style: double;
+    background-image: url("https://slidebazaar.com/wp-content/uploads/2022/05/Black-and-White-Background-Presentation-templates-SB02298.jpg");
+    background-size: cover;
+}

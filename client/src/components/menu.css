@@ -1,0 +1,47 @@
+#titree{
+    font-family: fantasy;
+    font-size: 80px;
+    text-align: center;
+    padding-left: 400px;
+}
+
+
+#menulist{
+    font-family: fantasy;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none !important;
+    
+}
+
+
+Link{
+    text-decoration: none !important;
+
+}
+
+Nav{
+    text-decoration: none !important;
+}
+
+
+.menulist{
+    text-decoration: none !important;
+}
+
+
+#pop{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+
+.qwq{
+    background-image: url("https://t4.ftcdn.net/jpg/01/16/35/15/360_F_116351589_owVOLIVoa8MkFR80TfGLRS4v7LsA2fTh.jpg") !important;
+    display: flex;
+    text-align: center;
+    text-decoration: none !important;
+    flex-wrap: wrap;
+}
